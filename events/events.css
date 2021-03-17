@@ -1,0 +1,40 @@
+body {
+  background-image: url('../Media/graphics/orange2.png');
+  background-color: rgb(255,255,245,0.8);
+  background-blend-mode: overlay;
+  margin: 3% 10% 3% 10%;
+  color: #660033;
+  font-family: candara;
+  font-size: 25px;
+}
+table, th, td {
+  border: none;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: center;
+  border:none;
+  font-size:25px;
+}
+
+p {
+  color: #660033;
+  font-family: candara;
+}
+
+a {
+  color: #660033;
+  font-family: candara;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h2 {font-family: garamond;
+  font-size: 60px;
+  color:#660033;
+}
+
+h3 {
+  font-family:courier;
+  font-size:30px;
+  color:#660033;
+}
