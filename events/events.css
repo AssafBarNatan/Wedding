@@ -1,7 +1,5 @@
 body {
-  background-image: url('../Media/graphics/orange2.png');
-  background-color: rgb(255,255,245,0.8);
-  background-blend-mode: overlay;
+  background-image: url('../Media/graphics/orange2bg.png');
   margin: 3% 10% 3% 10%;
   color: #660033;
   font-family: candara;
